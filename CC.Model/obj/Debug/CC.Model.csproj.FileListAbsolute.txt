@@ -1,0 +1,14 @@
+C:\Users\cedrmultimedia\Desktop\after\CC.Web\CC.Model\bin\Debug\CC.Model.dll
+C:\Users\cedrmultimedia\Desktop\after\CC.Web\CC.Model\bin\Debug\CC.Model.pdb
+C:\Users\cedrmultimedia\Desktop\after\CC.Web\CC.Model\bin\Debug\Newtonsoft.Json.dll
+C:\Users\cedrmultimedia\Desktop\after\CC.Web\CC.Model\bin\Debug\Newtonsoft.Json.xml
+C:\Users\cedrmultimedia\Desktop\after\CC.Web\CC.Model\obj\Debug\CC.Model.csprojResolveAssemblyReference.cache
+C:\Users\cedrmultimedia\Desktop\after\CC.Web\CC.Model\obj\Debug\CC.Model.dll
+C:\Users\cedrmultimedia\Desktop\after\CC.Web\CC.Model\obj\Debug\CC.Model.pdb
+C:\Users\nbr1n\Dropbox\CC.Web\CC.Model\bin\Debug\CC.Model.dll
+C:\Users\nbr1n\Dropbox\CC.Web\CC.Model\bin\Debug\CC.Model.pdb
+C:\Users\nbr1n\Dropbox\CC.Web\CC.Model\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nbr1n\Dropbox\CC.Web\CC.Model\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nbr1n\Dropbox\CC.Web\CC.Model\obj\Debug\CC.Model.csprojResolveAssemblyReference.cache
+C:\Users\nbr1n\Dropbox\CC.Web\CC.Model\obj\Debug\CC.Model.dll
+C:\Users\nbr1n\Dropbox\CC.Web\CC.Model\obj\Debug\CC.Model.pdb
